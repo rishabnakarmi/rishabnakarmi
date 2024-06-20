@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @rishabnakarmi
+- 👀 I’m interested in application of XAI in hydrological studies
+- 🌱 I’m currently learning SHAP, LIME and Argumentation.
+- 💞️ I’m looking to collaborate with water sector professionals.
+- 📫 How to reach me ... email me at Rishab.Nakarmi@ait.asia or Line/WhatsApp/Signal: +66 821170417
+- 😄 Pronouns: ...He/Him
+- ⚡ Fun fact: ... I play Dota2 almost everyday.
